@@ -1,0 +1,90 @@
+.mini-texto {
+    font-family: 'Arial', cursive;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+body {
+    background: linear-gradient(to top, rgb(20, 3, 28) , rgb(56, 8, 77), rgb(113, 0, 94));
+}
+p {
+    font-family: 'Arial', sans-serif;
+    font-size: 18px;
+    color: white;
+    text-align: justify;
+    line-height: 1.25;
+}
+
+h2 {
+    color: white;
+}
+.cuadro-de-texto {
+    border: 10px solid black;
+    padding-left: 25px;
+    padding-right: 25px;
+    background: linear-gradient(to top, rgb(44, 44, 44), rgb(110, 110, 110));
+    border-radius: 20px;
+    margin: 30px;
+}
+
+.mini-cuadrito-de-texto {
+    border: 10px solid black;
+    background: linear-gradient(to top, rgb(130, 0, 127), rgb(207, 0, 173));
+    border-radius: 20px;
+    width: fit-content;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.mini-cuadrito-de-texto-2 {
+    border: 10px solid black;
+    background: linear-gradient(to top, rgb(10, 10, 10), rgb(61, 61, 61));
+    border-radius: 20px;
+    width: fit-content;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-top: 7px;
+    margin-left:0px;
+}
+.mini-cuadrito-de-texto-3 {
+    border: 10px solid black;
+    background: linear-gradient(to top, rgb(44, 44, 44), rgb(110, 110, 110));
+    border-radius: 20px;
+    width: fit-content;
+    padding: 0px;
+    margin: 20px;
+}
+.mini-cuadrito-de-texto-4 {
+    border: 5px solid black;
+    background: rgb(0, 0, 0);
+    border-radius: 20px;
+    width: fit-content;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-top: 0px;
+    margin-bottom:30px;
+}
+
+.cuadro-centrado-de-controrno {
+    border: 10px solid black;
+    background: linear-gradient(to top, rgb(10, 10, 10), rgb(61, 61, 61));
+    border-radius: 20px;
+    width: fit-content;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin: 0 auto;
+}
+
+td {
+    font-family: 'Arial', sans-serif;
+    color: white;
+    font-size: 24px;
+    width: 150px;
+    text-align: justify;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 30px
+}
